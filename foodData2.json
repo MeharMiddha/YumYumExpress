@@ -1,0 +1,1213 @@
+[
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Fried Rice",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Fried-Rice-min.jpg",
+        "options": [
+            {
+                "half": "130",
+                "full": "220"
+            }
+        ],
+        "description": "Delight your palate with our savory Chicken Fried Rice, a wok-tossed masterpiece featuring tender chunks of seasoned chicken, crisp vegetables, and fragrant jasmine rice, delivering an irresistible fusion of flavors."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Fried Rice",
+        "img": "https://goodcheapeats.com/wp-content/uploads/2016/06/Vegetable-Fried-Rice-GCE.jpg",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description": "Experience the perfect medley of flavors in our Veg Fried Rice, a stir-fried delight featuring an array of fresh vegetables and aromatic jasmine rice, expertly seasoned for a wholesome and satisfying culinary experience."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Fish Biryani",
+        "img": "https://media.istockphoto.com/photos/king-fish-biryani-with-raita-served-in-a-golden-dish-isolated-on-dark-picture-id1409942571?b=1&k=20&m=1409942571&s=170667a&w=0&h=ozlMJf5hsDmS2sSdEdBWnoSZOEITef4qGMeWeq2lyTc=",
+        "options": [
+            {
+                "half": "200",
+                "full": "320"
+            }
+        ],
+        "description": "Dive into the exquisite flavors of our Fish Biryani, where succulent pieces of perfectly seasoned fish are layered with fragrant basmati rice and aromatic spices, creating a symphony of taste in every spoonful."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Biryani",
+        "img": "https://cdn.pixabay.com/photo/2019/11/04/12/16/rice-4601049__340.jpg",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": "Savor the royal richness of our Chicken Biryani, a tantalizing blend of marinated chicken, aromatic basmati rice, and fragrant spices, delivering a regal feast for your senses."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Biryani",
+        "img": "https://media.istockphoto.com/photos/veg-biryani-picture-id1363306527?b=1&k=20&m=1363306527&s=170667a&w=0&h=VCbro7CX8nq2kruynWOCO2GbMGCea2dDJy6O6ebCKD0=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Indulge in the aromatic delight of our Veg Biryani, where fragrant basmati rice meets a colorful melange of fresh vegetables and aromatic spices, creating a vegetarian symphony of flavors."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Garlic Fried Rice",
+        "img": "https://www.mirchitales.com/wp-content/uploads/2020/09/Chilli-Garlic-Fried-Rice-2.jpg",
+        "options": [
+            {
+                "half": "120",
+                "full": "220"
+            }
+        ],
+        "description": "Savor the aromatic allure of our Garlic Fried Rice, a wok-kissed sensation harmonizing fragrant jasmine rice with the rich essence of garlic, creating a flavorful and comforting dish."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Thai Style Fried Rice",
+        "img": "https://img.taste.com.au/DB0hBGnN/taste/2018/04/thai-style-fried-rice-136738-1.jpg",
+        "options": [
+            {
+                "half": "160",
+                "full": "250"
+            }
+        ],
+        "description": "Embark on a culinary journey with our Thai Styled Fried Rice, a tantalizing fusion of vibrant flavors, combining fragrant jasmine rice with exotic Thai spices, fresh vegetables, and succulent protein for a taste of Thailand in every bite."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Shanghai Fried Rice",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Prawn_Fried_Rice_Recipe_-_Chinese_Fried_Rice_With_Prawns-1.jpg",
+        "options": [
+            {
+                "half": "140",
+                "full": "230"
+            }
+        ],
+        "description": "Indulge in the bold flavors of our Shanghai Fried Rice, a tantalizing fusion of wok-tossed jasmine rice, succulent meats, and a medley of vegetables, delivering an authentic taste of Shanghai's culinary excellence."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Cheese Chilly",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-kabab-in-red-sauce-is-an-indian-dish-made-from-chunks-of-picture-id1257507446?b=1&k=20&m=1257507446&s=170667a&w=0&h=Nd7QsslbvPqOcvwu1bY0rEPZXJqwoKTYCal3nty4X-Y=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Delight in the perfect fusion of spice and gooey goodness with our Cheese Chilly, featuring crispy bites tossed in a zesty blend of peppers, onions, and savory spices, generously coated in melted cheese."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chicken Tikka",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMHRpa2thfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": "Savor the authentic taste of India with our Chicken Tikka, where tender, marinated chicken pieces are grilled to perfection, delivering a symphony of aromatic spices and smoky flavors in every bite."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer Tikka",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-picture-id1186759790?k=20&m=1186759790&s=612x612&w=0&h=e9MlX_7cZtq9_-ORGLPNU27VNP6SvDz7s-iwTxrf7wU=",
+        "options": [
+            {
+                "half": "170",
+                "full": "250"
+            }
+        ],
+        "description": "Indulge in the rich and smoky flavors of India with our Paneer Tikka, featuring marinated cubes of succulent paneer charred to perfection, offering a delightful harmony of spices and textures."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chicken Wings",
+        "img": "https://www.thespruceeats.com/thmb/y6gT4wgjN5E4l-LNRGM8mrrpHPs=/4602x3068/filters:fill(auto,1)/traditional-chicken-wings-912937-hero-01-6c1a003373a54538a732abc0005145d8.jpg",
+        "options": [
+            {
+                "half": "120",
+                "full": "210"
+            }
+        ],
+        "description": "Elevate your taste experience with our Chicken Wings, crispy on the outside, tender on the inside, and tossed in your choice of signature sauces for a flavorful and satisfying bite."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "French Fries",
+        "img": "https://www.thespruceeats.com/thmb/IHKuXcx3uUI1IWkM_cnnQdFH-zQ=/3485x2323/filters:fill(auto,1)/how-to-make-homemade-french-fries-2215971-hero-01-02f62a016f3e4aa4b41d0c27539885c3.jpg",
+        "options": [
+            {
+                "half": "70",
+                "full": "120"
+            }
+        ],
+        "description": "Golden perfection in every bite, our French Fries offer a crispy outside and fluffy inside, seasoned to perfection, making them the ideal crunchy companion to any meal."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Onion Rings",
+        "img": "https://www.tastingtable.com/img/gallery/your-onion-rings-will-taste-better-with-this-simple-step/l-intro-1649958010.jpg",
+        "options": [
+            {
+                "half": "80",
+                "full": "130"
+            }
+        ],
+        "description": "Crispy indulgence awaits with our Onion Rings – golden circles of perfectly battered and fried onions, offering a satisfying crunch in every savory bite."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Satay Chicken",
+        "img": "https://www.thespruceeats.com/thmb/p_o5YapwpE7XVz-gJzuBiPms3lg=/4200x2800/filters:fill(auto,1)/chicken-satay-recipe-3217478-herp-01-0ed36da2f5ba4195a3f022de2b55e7d9.jpg",
+        "options": [
+            {
+                "half": "150",
+                "full": "280"
+            }
+        ],
+        "description": "Savor the irresistible fusion of flavors with our Satay Chicken, featuring tender skewered chicken marinated in a harmonious blend of exotic spices, grilled to perfection, and served with a delectable peanut sauce."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Simple Samosa (with chutney)",
+        "img": "https://i1.wp.com/vegecravings.com/wp-content/uploads/2017/03/samosa-recipe-step-by-step-instructions.jpg?fit=1801%2C1717&ssl=1",
+        "options": [
+            {
+                "half": "40",
+                "full": "70"
+            }
+        ],
+        "description": "Experience the classic delight of our Simple Samosa, golden and crispy, paired with a tangy tamarind chutney, delivering a burst of traditional flavors in every bite."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chole Samosa Chaat",
+        "img": "https://thumbs.dreamstime.com/b/indisches-imbisse-chole-samosa-chaat-109155914.jpg",
+        "options": [
+            {
+                "half": "60",
+                "full": "90"
+            }
+        ],
+        "description": "Discover a delicious fusion with our Chole Samosa, where golden pockets are filled with spiced chickpeas, creating a perfect harmony of textures and flavors, served with tangy tamarind chutney."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chole Aloo Tikki Chaat",
+        "img": "https://3.bp.blogspot.com/-5p36KuCHuIU/V8HedrpteSI/AAAAAAAABZM/fP6K8ZxC3oEINUkybK2Uiem3n6HRuXKiwCLcB/s1600/DSC_6872.jpg",
+        "options": [
+            {
+                "half": "70",
+                "full": "110"
+            }
+        ],
+        "description": "Elevate your palate with our Chole Aloo Tikki Chaat, a tantalizing blend of crispy potato patties, aromatic chickpeas, and an explosion of chaat spices, topped with refreshing yogurt and chutneys."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Chicken Cheese Pizza",
+        "img": "https://www.tasteofhome.com/wp-content/uploads/2017/10/Chicken-Pizza_exps30800_FM143298B03_11_8bC_RMS-2.jpg",
+        "options": [
+            {
+                "regular": "180",
+                "medium": "290",
+                "large": "360"
+            }
+        ],
+        "description": "Satisfy your cravings with our Chicken Cheese Pizza, a mouthwatering fusion of succulent chicken, melted cheese, and a perfectly baked crust for the ultimate indulgence."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Mix Veg Pizza",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "regular": "170",
+                "medium": "260",
+                "large": "320"
+            }
+        ],
+        "description": "Delight in a burst of flavors with our Mix Veg Pizza, a medley of colorful vegetables atop a crispy crust, generously layered with a blend of savory cheeses for a veggie lover's paradise."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Margherita Pizza",
+        "img": "https://images.pexels.com/photos/6940996/pexels-photo-6940996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "230",
+                "large": "310"
+            }
+        ],
+        "description": "Experience the classic simplicity of our Margherita Pizza, a perfect harmony of fresh mozzarella, sun-kissed tomatoes, fragrant basil, and a drizzle of extra-virgin olive oil on a thin, crisp crust."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Tomato Cheesy Pizza",
+        "img": "https://www.wallpaperflare.com/static/836/417/288/pizza-food-heart-tomatoes-wallpaper.jpg",
+        "options": [
+            {
+                "regular": "110",
+                "medium": "190",
+                "large": "260"
+            }
+        ],
+        "description": "Indulge in the ultimate comfort with our Tomato Cheesy Pizza, featuring a luscious blend of ripe tomatoes, gooey melted cheese, and a perfectly baked crust for a delightful burst of flavor in every bite."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Farmhouse Pizza",
+        "img": "https://i.ytimg.com/vi/fHo1j3VF7VE/maxresdefault.jpg",
+        "options": [
+            {
+                "regular": "190",
+                "medium": "340",
+                "large": "470"
+            }
+        ],
+        "description": "Savor the rustic charm of our Farmhouse Pizza, adorned with a medley of fresh vegetables, savory ham, and melted cheese, delivering a wholesome and flavorful countryside experience."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Paneer Tikka Butter Masala Pizza",
+        "img": "https://1.bp.blogspot.com/-isnyVhghEZI/XqOp1ZFMkzI/AAAAAAABKeU/_tpblJE8bdAe6bajYbzDzw3ZAq-nlW-gwCLcBGAsYHQ/s1600/20200319153928_IMG_4751-01-01-01.jpeg",
+        "options": [
+            {
+                "regular": "190",
+                "medium": "360",
+                "large": "580"
+            }
+        ],
+        "description": "Experience a fusion of flavors with our Paneer Tikka Butter Masala Pizza, marrying the succulence of paneer tikka with the richness of butter masala, creating a delectable symphony on a crispy crust."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Butter Chicken Pizza",
+        "img": "https://www.dominos.com.au/ManagedAssets/AU/product/P316/AU_P316_en_hero_4200.jpg?v-397128675",
+        "options": [
+            {
+                "regular": "210",
+                "medium": "430",
+                "large": "620"
+            }
+        ],
+        "description": "Indulge in a culinary delight with our Butter Chicken Pizza, harmonizing the classic flavors of tender butter chicken pieces, creamy tomato sauce, and a perfect cheese blend on a delectably crispy crust."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Meat Blast Pizza",
+        "img": "https://weirdandwildpizza.com/wp-content/uploads/2021/01/main-2.jpg",
+        "options": [
+            {
+                "regular": "210",
+                "medium": "450",
+                "large": "670"
+            }
+        ],
+        "description": "Unleash your carnivorous cravings with our Meat Blast Pizza, a flavor explosion featuring a tantalizing mix of savory meats, including pepperoni, sausage, ham, and seasoned ground beef, all on a bed of melted cheese and perfectly baked crust."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "YumYum's Special Chicken Pizza",
+        "img": "https://i.pinimg.com/originals/6b/84/a7/6b84a7cad4e7d25ca53af9aec8b9c8da.jpg",
+        "options": [
+            {
+                "regular": "230",
+                "medium": "510",
+                "large": "699"
+            }
+        ],
+        "description": "A culinary masterpiece featuring succulent chicken, a symphony of vibrant veggies, and our signature blend of cheeses on a perfectly crafted crust for an irresistibly delightful experience.."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "YumYum's Special Veg Pizza",
+        "img": "https://pixelz.cc/wp-content/uploads/2017/11/homemade-vegetarian-pizza-uhd-8k-wallpaper.jpg",
+        "options": [
+            {
+                "regular": "170",
+                "medium": "310",
+                "large": "450"
+            }
+        ],
+        "description": "A garden-fresh delight that captivates your palate with a medley of colorful vegetables, luscious cheese, and a perfect blend of herbs, all on a heavenly crust."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Dal Tadka",
+        "img": "https://i1.wp.com/vegecravings.com/wp-content/uploads/2018/01/Dal-Tadka-Recipe-Step-By-Step-Instructions.jpg?fit=750%2C602&ssl=1",
+        "options": [
+            {
+                "Half": "110",
+                "Full": "190"
+            }
+        ],
+        "description": "Lentils cooked to perfection in a flavorful tempered spice infusion, creating the classic and aromatic Indian dish, Dal Tadka."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Dal Makhni",
+        "img": "https://4.bp.blogspot.com/-CAfruUvNRhs/WPhZ7KiJvmI/AAAAAAAAARs/8xgKSgIM7LAgqF-9ZM761j5r8VIcTACPACLcB/s1600/maxresdefault.jpg",
+        "options": [
+            {
+                "Half": "140",
+                "Full": "210"
+            }
+        ],
+        "description": "Buttery black lentils and kidney beans slow-cooked to creamy perfection, enriched with aromatic spices in the indulgent North Indian delicacy, Dal Makhani."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Dal Fry",
+        "img": "https://1.bp.blogspot.com/-rs0QbgPcWGI/X0FIGyumanI/AAAAAAAALno/UioNdqhDaNUqFdkLteCzAWI-icZ5jPhYgCLcBGAsYHQ/s1600/Kali%2Bdal%2Brecipe.JPG",
+        "options": [
+            {
+                "Half": "120",
+                "Full": "200"
+            }
+        ],
+        "description": "Black lentils delicately spiced and tempered to perfection, creating a savory and comforting experience in our enticing Dal Fry."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Paneer Tikka Masala",
+        "img": "https://vegecravings.com/wp-content/uploads/2018/06/Paneer-Tikka-Masala-Recipe-Step-By-Step-Instructions.jpg",
+        "options": [
+            {
+                "Half": "190",
+                "Full": "350"
+            }
+        ],
+        "description": "Tender paneer cubes marinated, grilled to perfection, and immersed in a rich, spiced tomato-based curry, presenting the delectable Paneer Tikka Masala on your plate."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Kadai Paneer",
+        "img": "https://3.bp.blogspot.com/-5tyQAHZqbvk/W4zNaXPoLqI/AAAAAAAAOm8/O9351uOTG8gTHGQrioBmmtRGoF4_CaVQQCLcBGAs/s1600/DSC_0409.JPG",
+        "options": [
+            {
+                "Half": "210",
+                "Full": "380"
+            }
+        ],
+        "description": "Succulent paneer cubes stir-fried with colorful bell peppers, onions, and aromatic spices, delivering a delightful symphony of flavors in our signature Kadai Paneer."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Shahi Paneer",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Vegetables_Gravy/Shahi_Paneer_Recipe-1.jpg",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "370"
+            }
+        ],
+        "description": "Creamy and regal, Shahi Paneer is a royal feast featuring velvety cottage cheese cubes bathed in a luscious cashew and cream-based curry, harmonizing opulence with flavor."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Matar Paneer",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/03/matar-paneer.jpg",
+        "options": [
+            {
+                "Half": "180",
+                "Full": "330"
+            }
+        ],
+        "description": "Delight in the perfect union of soft paneer and vibrant green peas in a mildly spiced tomato-based curry, capturing the essence of our Matar Paneer."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Palak Paneer",
+        "img": "https://greenbowl2soul.com/wp-content/uploads/2019/02/Easy-palak-paneer-recipe-1.jpg",
+        "options": [
+            {
+                "Half": "210",
+                "Full": "350"
+            }
+        ],
+        "description": "Experience the wholesome goodness of fresh spinach puree blended with paneer cubes, harmonizing in a nutritious and flavorful Palak Paneer delight."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Paneer Bhurji",
+        "img": "https://vegecravings.com/wp-content/uploads/2022/04/Paneer-Bhurji-Recipe-Step-By-Step-Instructions.jpg",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "360"
+            }
+        ],
+        "description": "Savor the delightful medley of crumbled paneer infused with aromatic spices, onions, and tomatoes, creating a flavorful and satisfying Paneer Bhurji experience."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Sev Bhaji",
+        "img": "https://hindi.dheivegam.com/wp-content/uploads/2023/03/Sev-bhaji-recipe-in-Hindi.jpg",
+        "options": [
+            {
+                "Half": "140",
+                "Full": "230"
+            }
+        ],
+        "description": "Indulge in the tantalizing blend of crispy sev atop a spicy and flavorful vegetable curry, elevating your palate with the unique and delicious Sev Bhaji."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Mix Veg",
+        "img": "https://pb08bistro.com/wp-content/uploads/2020/06/mixed-veg-1536x1400.jpg",
+        "options": [
+            {
+                "Half": "150",
+                "Full": "240"
+            }
+        ],
+        "description": "An enticing medley of garden-fresh vegetables simmered to perfection in a savory blend of spices, presenting our wholesome and flavorful Mix Veg delight."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Bhindi Masala",
+        "img": "https://www.pakistanihealthyrecipes.com/wp-content/uploads/2021/03/how-to-make-bhindi-masala-gravy-recipe.jpg",
+        "options": [
+            {
+                "Half": "180",
+                "Full": "270"
+            }
+        ],
+        "description": "Enjoy the exquisite flavors of tender okra cooked to perfection in a spiced tomato-based curry, showcasing the delectable Bhindi Masala on your plate."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Malai Kofta",
+        "img": "https://www.ruchiskitchen.com/wp-content/uploads/2015/11/malai-kofta-recipe-32.jpg",
+        "options": [
+            {
+                "Half": "210",
+                "Full": "340"
+            }
+        ],
+        "description": "Indulge in the richness of velvety kofta balls crafted from paneer and vegetables, bathed in a creamy tomato-based sauce, offering a luxurious Malai Kofta experience."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Jeera Aloo",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/jeera-aloo-recipe.jpg",
+        "options": [
+            {
+                "Half": "150",
+                "Full": "210"
+            }
+        ],
+        "description": "Experience the perfect fusion of golden-fried potatoes infused with the aromatic warmth of cumin seeds, creating a delightful Jeera Aloo side dish."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Kaju Curry",
+        "img": "https://i.ytimg.com/vi/ExRfzD4h1ak/maxresdefault.jpg",
+        "options": [
+            {
+                "Half": "220",
+                "Full": "350"
+            }
+        ],
+        "description": "Indulge in the richness of cashew nuts enveloped in a luscious and aromatic curry, elevating your dining experience with our delectable Kaju Curry."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Kaju Paneer",
+        "img": "https://www.flavouroffood.com/wp-content/uploads/2021/06/Kaju-Paneer-Masala-Recipe-4-768x614.jpg",
+        "options": [
+            {
+                "Half": "260",
+                "Full": "390"
+            }
+        ],
+        "description": "Delight in the decadent fusion of cashews and paneer, simmered in a rich and creamy tomato-based curry, presenting the exquisite Kaju Paneer on your plate."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Veg Kofta",
+        "img": "https://i1.wp.com/vegecravings.com/wp-content/uploads/2018/03/Veg-Kofta-Recipe-Step-By-Step-Instructions.jpg?fit=2170%2C1893&quality=65&strip=all&ssl=1",
+        "options": [
+            {
+                "Half": "190",
+                "Full": "270"
+            }
+        ],
+        "description": "Savor the artful blend of vegetable koftas, deep-fried to golden perfection, and immersed in a flavorful curry, showcasing our delectable Veg Kofta."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Aloo Mutter",
+        "img": "https://carameltintedlife.com/wp-content/uploads/2021/04/Aloo-Matar-1-5.jpg",
+        "options": [
+            {
+                "Half": "170",
+                "Full": "250"
+            }
+        ],
+        "description": "Enjoy the comforting harmony of tender potatoes and green peas in a spiced tomato-based curry, bringing warmth and flavor to our Aloo Mutter."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Mushroom Masala",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2019/02/Mushroom-Masala-4.jpg",
+        "options": [
+            {
+                "Half": "230",
+                "Full": "380"
+            }
+        ],
+        "description": "Delight your senses with the earthy goodness of mushrooms simmered in a flavorful and aromatic masala, presenting our savory Mushroom Masala."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Mushroom Bhaji",
+        "img": "https://mlnxt17nxfx4.i.optimole.com/l-DuswE.Xl-V~12f59/w:1264/h:1500/q:auto/https://mistyricardo.com/wp-content/uploads/2020/10/Mushroom-Bhaji-Vertical-.jpg",
+        "options": [
+            {
+                "Half": "210",
+                "Full": "350"
+            }
+        ],
+        "description": "Savor the delightful medley of mushrooms stir-fried with aromatic spices and herbs, creating a flavorful and satisfying Mushroom Bhaji."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Kadai Mushroom",
+        "img": "https://rachnas-kitchen.com/wp-content/uploads/2015/05/kadai-mashroom-1-Copy.jpg",
+        "options": [
+            {
+                "Half": "220",
+                "Full": "360"
+            }
+        ],
+        "description": "Experience the bold and aromatic blend of mushrooms, bell peppers, and onions stir-fried to perfection in a spicy kadai masala, showcasing our delectable Kadai Mushroom."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Mushroom Matar",
+        "img": "https://admin.thecookaway.com/media/catalog/product/r/4/r4_-_mushroom_matar_masala_3.jpg",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "320"
+            }
+        ],
+        "description": "Indulge in the enticing combination of tender mushrooms and green peas, bathed in a savory tomato-based curry, elevating your dining experience with our flavorful Mushroom Matar."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Mushroom Tikka Masala",
+        "img": "https://kitchenmai.com/wp-content/uploads/2021/03/MTM2_blog.jpg",
+        "options": [
+            {
+                "Half": "210",
+                "Full": "340"
+            }
+        ],
+        "description": "Succulent mushroom pieces marinated, grilled to perfection, and immersed in a rich, spiced tomato-based curry, presenting the delectable Mushroom Tikka Masala on your plate."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Sarson Da Saag",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Sarson_Ka_Saag_Recipe_North_Indian_Saag_1_1600.jpg",
+        "options": [
+            {
+                "Half": "170",
+                "Full": "250"
+            }
+        ],
+        "description": "Embrace the traditional flavors of Punjab with our Sarson da Saag, a delectable dish featuring mustard greens simmered to perfection and infused with aromatic spices."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Soya Chaap",
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2022/08/Soya-Chaap-Blog.jpg",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "310"
+            }
+        ],
+        "description": "Savor the protein-packed goodness of Soya Chaap, marinated and grilled to perfection, offering a delightful fusion of flavors and textures in every bite."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Channa Masala",
+        "img": "https://www.seriouseats.com/thmb/nO5l1IiMT94jVTSjvdqnlm_y0Tc=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__03__20160328-channa-masala-recipe-8-2ab6195d55ae4068a8c1d36d7371f5f7.jpg",
+        "options": [
+            {
+                "Half": "160",
+                "Full": "240"
+            }
+        ],
+        "description": "Delight in the hearty goodness of chickpeas simmered in a spiced tomato-based curry, capturing the essence of our flavorful Channa Masala."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Punjabi Karela Masala",
+        "img": "https://www.sinamontales.com/dotcord/uploads/2020/05/Punjabi-Karela-Sabji-1.jpg",
+        "options": [
+            {
+                "Half": "170",
+                "Full": "260"
+            }
+        ],
+        "description": "Savor the bold flavors of Punjabi Karela Masala, featuring bitter gourd slices stir-fried to perfection with aromatic spices, delivering a delightful culinary experience."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Baingan Bharta",
+        "img": "https://vegecravings.com/wp-content/uploads/2023/01/Baingan-Bharta-Recipe-Step-By-Step-Instructions-scaled.jpg",
+        "options": [
+            {
+                "Half": "190",
+                "Full": "280"
+            }
+        ],
+        "description": "Indulge in the smoky goodness of Baingan Bharta Masala, where roasted eggplant is skillfully blended with aromatic spices, offering a rich and flavorful culinary delight."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Gobhi Manchurian",
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2017/06/gobi-manchurian-featured.jpg",
+        "options": [
+            {
+                "Half": "170",
+                "Full": "260"
+            }
+        ],
+        "description": "Delight in the crispy perfection of Gobhi Manchurian, featuring cauliflower florets coated in a tangy and flavorful Manchurian sauce, delivering a delightful fusion experience."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Aloo Methi",
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/aloo-methi-sabzi-featured.jpg",
+        "options": [
+            {
+                "Half": "180",
+                "Full": "240"
+            }
+        ],
+        "description": "Savor the delightful blend of tender potatoes and fresh fenugreek leaves in a spiced tomato-based curry, presenting our flavorful Aloo Methi Masala."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Dum Aloo",
+        "img": "https://i1.wp.com/vegecravings.com/wp-content/uploads/2018/04/Dum-Aloo-Recipe-Step-By-Step-Instructions.jpg?fit=2097%2C1917&quality=65&strip=all&ssl=1",
+        "options": [
+            {
+                "Half": "160",
+                "Full": "230"
+            }
+        ],
+        "description": "Indulge in the rich and aromatic Dum Aloo Masala, featuring baby potatoes slow-cooked in a flavorful blend of spices and a velvety tomato-based curry."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Veg Garlic Kofta",
+        "img": "https://i.pinimg.com/originals/52/c8/9e/52c89e74f28a3827fb7165d7064ef497.jpg",
+        "options": [
+            {
+                "Half": "190",
+                "Full": "280"
+            }
+        ],
+        "description": "Savor the exquisite harmony of vegetable-stuffed garlic-infused koftas, bathed in a luscious curry, presenting our flavorful Veg Garlic Kofta."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Babycorn Mushroom Masala",
+        "img": "https://3.bp.blogspot.com/-91OIu4eo8Cg/Upx9VtAFybI/AAAAAAAACPo/hyzVy4AhJjQ/s1600/Mushroom+Babycorn+Masala.jpg",
+        "options": [
+            {
+                "Half": "230",
+                "Full": "360"
+            }
+        ],
+        "description": "Experience the delightful fusion of tender baby corn and mushrooms in a rich and flavorful masala, creating a savory sensation in our Baby Corn Mushroom Masala."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Kaddu",
+        "img": "https://3.bp.blogspot.com/-Gu6MP6y6leA/U7ok5SeAXgI/AAAAAAAANug/k-CisWkjAtg/s1600/kaddu+ki+sabzi.JPG",
+        "options": [
+            {
+                "Half": "140",
+                "Full": "220"
+            }
+        ],
+        "description": "Enjoy the culinary delight of Forkaddu, featuring tender pieces of pumpkin delicately spiced and cooked to perfection, adding a flavorful touch to your dining experience."
+    },
+    {
+        "CategoryName": "Main Course Veg",
+        "name": "Tinda Ki Sabzi",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Dahi_Walla_Tinda_Recipe_Indian_Round_gourd_or_Apple_Gourd_Curry__5_1600.jpg",
+        "options": [
+            {
+                "Half": "170",
+                "Full": "290"
+            }
+        ],
+        "description": "Savor the simplicity of Tinda, a light and flavorful dish showcasing baby Indian round gourds stir-fried with aromatic spices, offering a delightful addition to your meal."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Butter Chicken",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
+        "options": [
+            {
+                "Half": "280",
+                "Full": "400"
+            }
+        ],
+        "description": "Indulge in the culinary classic, Butter Chicken, featuring tender chicken pieces in a velvety tomato and cream-based curry, delivering a rich and flavorful experience."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Kadai Chicken",
+        "img": "https://tastyrecipes247.com/images/kadai-chicken/final-dish-blog.jpg",
+        "options": [
+            {
+                "Half": "290",
+                "Full": "440"
+            }
+        ],
+        "description": "Savor the bold and aromatic Kadai Chicken, where succulent pieces of chicken are stir-fried with colorful bell peppers and onions in a spiced curry, offering a delightful culinary journey."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Pepper Chicken",
+        "img": "https://www.gohealthyeverafter.com/wp-content/uploads/2022/06/Pepper-chicken-gravy-09.jpg",
+        "options": [
+            {
+                "Half": "270",
+                "Full": "390"
+            }
+        ],
+        "description": "Experience the perfect balance of succulent chicken marinated and cooked with a peppery kick, creating a flavorful and aromatic Pepper Chicken sensation."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Tawa Chicken",
+        "img": "https://i.ytimg.com/vi/2rE4v0tPpqw/maxresdefault.jpg",
+        "options": [
+            {
+                "Half": "250",
+                "Full": "370"
+            }
+        ],
+        "description": "Delight in the sizzling Tawa Chicken, where marinated chicken is expertly seared on the griddle with aromatic spices, offering a tantalizing and flavorful experience."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Tawa Chicken Boneless",
+        "img": "https://thumbs.dreamstime.com/z/closeup-tawa-chicken-boneless-bowl-spicy-delicious-indian-non-vegetarian-dish-238173851.jpg",
+        "options": [
+            {
+                "Half": "270",
+                "Full": "380"
+            }
+        ],
+        "description": "Savor the sizzling perfection of boneless Tawa Chicken, expertly seared with aromatic spices on the griddle, delivering a flavorful and succulent dining experience."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Chicken Keema",
+        "img": "https://www.yellowthyme.com/wp-content/uploads/2018/03/DSC_1212-e1524847173575.jpg",
+        "options": [
+            {
+                "Half": "290",
+                "Full": "410"
+            }
+        ],
+        "description": "Indulge in the savory goodness of Chicken Keema, a delectable dish featuring minced chicken cooked with aromatic spices, offering a flavorful culinary delight."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Punjabi Chicken Curry",
+        "img": "https://1.bp.blogspot.com/-KOByzEgb9pU/UiKUCKx7bEI/AAAAAAAAgNo/L2Iv180O4ps/s1600/p+c+curry+2.jpg",
+        "options": [
+            {
+                "Half": "270",
+                "Full": "380"
+            }
+        ],
+        "description": "Relish the authentic flavors of Punjab with our Punjabi Chicken Curry, featuring tender chicken simmered in a rich and aromatic tomato-based gravy, delivering a delightful culinary experience."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Rara Chicken",
+        "img": "https://i.ytimg.com/vi/kgImzj9szQk/maxresdefault.jpg",
+        "options": [
+            {
+                "Half": "290",
+                "Full": "420"
+            }
+        ],
+        "description": "Indulge in the aromatic delight of Rara Chicken, featuring tender pieces of chicken slow-cooked in a rich and flavorful blend of spices, offering a culinary sensation."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Masala Chilli Chicken",
+        "img": "https://glebekitchen.com/wp-content/uploads/2019/06/masalachillichickentopclose-1.jpg",
+        "options": [
+            {
+                "Half": "300",
+                "Full": "430"
+            }
+        ],
+        "description": "Savor the perfect blend of succulent chicken stir-fried with aromatic spices and fiery chillies in our Masala Chilli Chicken, offering a delightful burst of flavors."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Home Style Chicken",
+        "img": "https://i.ytimg.com/vi/iZWzAuMH5Yg/maxresdefault.jpg",
+        "options": [
+            {
+                "Half": "270",
+                "Full": "390"
+            }
+        ],
+        "description": "Savor the comforting taste of Home-Style Chicken, a nostalgic culinary experience featuring tenderly cooked chicken with traditional spices and flavors."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Dahi Chicken",
+        "img": "https://vaya.in/recipes/wp-content/uploads/2018/03/Dahi-chicken.jpg",
+        "options": [
+            {
+                "Half": "280",
+                "Full": "370"
+            }
+        ],
+        "description": "Succulent chicken pieces cooked in a creamy yogurt-based sauce, infused with aromatic spices for a flavorful and indulgent dining experience."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Cream Chicken",
+        "img": "https://frombowltosoul.com/wp-content/uploads/2018/10/IMG_3461.jpg",
+        "options": [
+            {
+                "Half": "290",
+                "Full": "400"
+            }
+        ],
+        "description": "Tender chicken simmered in a luscious, velvety cream sauce, delicately spiced to perfection for a rich and satisfying dish."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Kali Mirch Chicken",
+        "img": "https://reetikamitra.com/wp-content/uploads/2021/11/Chicken-Kali-Mirch-Logo.jpg",
+        "options": [
+            {
+                "Half": "300",
+                "Full": "420"
+            }
+        ],
+        "description": "A savory symphony of tender chicken cooked in a rich black pepper-infused gravy, delivering a bold and aromatic culinary delight."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Mutton Gurda Kaleji",
+        "img": "https://1.bp.blogspot.com/-H297Ddn7Vx8/W3b-gWRBSoI/AAAAAAAAAWA/pFtj9Zs8HWIc9_gZdaIU1Qa4qzJKUivMwCLcBGAs/s1600/gurda%2Bkaeji%2B8.jpg",
+        "options": [
+            {
+                "Half": "330",
+                "Full": "460"
+            }
+        ],
+        "description": "A delectable medley of tender mutton kidney and liver, expertly cooked with aromatic spices, offering a flavorsome and hearty culinary experience."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Rara Mutton",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2020/12/Mutton-Rara.jpg",
+        "options": [
+            {
+                "Half": "310",
+                "Full": "430"
+            }
+        ],
+        "description": "Succulent mutton pieces slow-cooked to perfection in a rich and spicy curry, featuring minced meat for a delightful texture and robust flavor."
+    },
+    {
+        "CategoryName": "Main Course Non-Veg",
+        "name": "Mutton Curry",
+        "img": "https://www.thespruceeats.com/thmb/i2zhq0qXPHPz1NZ5xQ-5ILr1jsc=/5001x3329/filters:fill(auto,1)/goat-mutton-curry-1957594-hero-01-afaf638173cd47d595c7ad99a018cf01.jpg",
+        "options": [
+            {
+                "Half": "340",
+                "Full": "470"
+            }
+        ],
+        "description": "Tender mutton pieces simmered in a flavorful curry, harmoniously spiced to create a classic and hearty culinary delight."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Chapati",
+        "img": "https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/53/2019/09/Roti-1-1842x1212.jpg",
+        "options": [
+            {
+                "Qty.":"15"
+            }
+        ],
+        "description": "Soft, homemade whole wheat flatbread - a staple of Indian cuisine."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Butter Chapati",
+        "img": "https://mithaibana.b-cdn.net/wp-content/uploads/2023/02/Butter-Roti.jpg",
+        "options": [
+            {
+                "Qty.":"25"
+            }
+        ],
+        "description": "A soft, chewy khari roti made from whole wheat flour, cooked in a tawa and served with a side of tangy pickle."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Onion Chapati",
+        "img": "https://www.foodie-trail.com/wp-content/uploads/2020/10/174-scaled.jpg",
+        "options": [
+            {
+                "Qty.":"35"
+            }
+        ],
+        "description": "A soft, chewy onion and corriander roti made from whole wheat flour, cooked in a tawa and served with a side of tangy pickle."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Missi Chapati",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2014/09/Missi-Roti-1-600x898.jpg",
+        "options": [
+            {
+                "Qty.":"25"
+            }
+        ],
+        "description": "Missi Roti is a North Indian flatbread prepared with chickpea flour, onions, ginger, kasuri methi, and a few spices."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Makki Di Roti",
+        "img": "https://recipes.timesofindia.com/photo/56097918.cms?imgsize=421800",
+        "options": [
+            {
+                "Qty.":"40"
+            }
+        ],
+        "description": "Makki di roti is made from makai atta cornmeal flour, salt, and water, and once it's done, it is brushed with ghee and traditionally served piping hot with sarson da saag (cooked mustard leaves and spices), especially during the winter months."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Bajra Di Roti",
+        "img": "https://i.ytimg.com/vi/776uABcG8YY/maxresdefault.jpg",
+        "options": [
+            {
+                "Qty.":"40"
+            }
+        ],
+        "description": "Bajra di roti is made from makai atta cornmeal flour, salt, and water, and once it's done, it is brushed with ghee and traditionally served piping hot with sarson da saag (cooked mustard leaves and spices), especially during the winter months."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Naan",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/07/naan-recipe-2.jpg",
+        "options": [
+            {
+                "Qty.":"50"
+            }
+        ],
+        "description": "This naan recipe is everything it promises: fluffy, chewy, bubbly with the signature elasticity that you get from tandoor cooked naan!"
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Butter Naan",
+        "img": "https://img.freepik.com/free-photo/traditional-azerbaijani-meat-gutab-minced-meat-stuffed-flatbread-served-with-sumac_140725-5219.jpg?w=740&t=st=1708952512~exp=1708953112~hmac=57301b26a98990cceb04f7c2eac4a7d5dbad183f6b6cec5dcb7293d15b329c9a",
+        "options": [
+            {
+                "Qty.":"60"
+            }
+        ],
+        "description": "Soft and fluffy Indian bread, brushed with butter for a delectable and indulgent taste experience."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Garlic Naan",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/garlic-naan-1.jpg",
+        "options": [
+            {
+                "Qty.":"75"
+            }
+        ],
+        "description": "Buttery naan infused with aromatic garlic, adding a flavorful twist to this classic Indian bread."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Onion Naan",
+        "img": "https://static.vecteezy.com/system/resources/previews/008/584/003/large_2x/onion-naan-on-white-photo.jpg",
+        "options": [
+            {
+                "Qty.":"70"
+            }
+        ],
+        "description": "Deliciously crafted naan infused with savory onions, enhancing the traditional Indian bread with a delightful crunch and flavor."
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Aloo Parantha",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2019/06/Aloo-Paratha-1-3.jpg",
+        "options": [
+            {
+                "Qty.":"60"
+            }
+        ],
+        "description": "Savor the warmth of Indian comfort food with our Aloo Parantha, a delightful unleavened flatbread stuffed with seasoned mashed potatoes, pan-fried to perfection."
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Laccha Parantha",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2014/08/Lachha-Paratha-3.jpg",
+        "options": [
+            {
+                "Qty.":"80"
+            }
+        ],
+        "description": "Indulge in the crispy layers of our Laccha Parantha, a flaky and flavorful Indian flatbread that adds a delightful crunch to your dining experience."
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Paneer Parantha",
+        "img": "http://www.archanaskitchen.com/images/archanaskitchen/1-Author/Pooja_Thakur/Paneer_Pyaz_Paratha_Recipe_24_1600.jpg",
+        "options": [
+            {
+                "Qty.":"100"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Parantha",
+        "name": "Gobhi Parantha",
+        "img": "https://www.saffrontrail.com/wp-content/uploads/2017/12/cauliflower-gobhi-paratha-dill-vegan-copy.jpg",
+        "options": [
+            {
+                "Qty.":"85"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Vanilla Shake",
+        "img": "https://i.ytimg.com/vi/yBMmbXgv7tc/maxresdefault.jpg",
+        "options": [
+            {
+                "Qty.":"140"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Chocolate Shake",
+        "img": "https://brooklynfarmgirl.com/wp-content/uploads/2021/03/The-Best-Chocolate-Milkshake-Featured-Image.jpg",
+        "options": [
+            {
+                "Qty.":"160"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Butterscotch Shake",
+        "img": "https://tyberrymuch.com/wp-content/uploads/2021/11/butterscotch-milkshake-hero-recipe-735x735.jpg",
+        "options": [
+            {
+                "Qty.":"180"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Red Velvet Shake",
+        "img": "https://peppertreats.com/wp-content/uploads/2022/02/Red-Velvet-Cheese-shake-5.jpg",
+        "options": [
+            {
+                "Qty.":"200"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "KitKat Shake",
+        "img": "https://i.pinimg.com/originals/03/60/c0/0360c05e27f88e9589f01bb951c299d6.jpg",
+        "options": [
+            {
+                "Qty.":"180"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Oreo Shake",
+        "img": "https://www.getarecipes.com/wp-content/uploads/2021/06/GAR_featuredOreo-Milkshake.png",
+        "options": [
+            {
+                "Qty.":"180"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Nutella Shake",
+        "img": "https://ae.yimt.co/wp-content/uploads/2019/06/Nutella-MilkShake-16-AED.jpg",
+        "options": [
+            {
+                "Qty.":"180"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Strawberry Shake",
+        "img": "https://www.oliviascuisine.com/wp-content/uploads/2021/06/strawberry-milkshake.jpg",
+        "options": [
+            {
+                "Qty.":"180"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    },
+    {
+        "CategoryName": "Shakes",
+        "name": "Blueberry Shake",
+        "img": "https://www.cookingclassy.com/wp-content/uploads/2016/01/blueberry_cheesecake_protein_breakfast_shake6..jpg",
+        "options": [
+            {
+                "Qty.":"180"
+            }
+        ],
+        "description": "Experience the perfect blend of softness and spice with our Paneer Parantha, a scrumptious unleavened flatbread stuffed with seasoned cottage cheese, bringing authentic flavors to your plate."
+    }
+]
